@@ -1,0 +1,11 @@
+.custom-primary-color{
+	color:black;
+}
+
+.custom-primary-color:hover{
+	color:purple;
+}
+
+body {
+	font-family: 'Roboto Slab', serif;
+}
